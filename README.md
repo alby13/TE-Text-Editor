@@ -1,5 +1,6 @@
 # TE-Text-Editor
 TE is a Linux text editor created in Python.
+How does this exist? Some dude named Ken Arnold made a software library in 1978 called Curses.
 
 ░▒▓████████▓▒░▒▓████████▓▒░      
 ____░▒▓█▓▒░______░▒▓█▓▒░             
