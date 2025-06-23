@@ -78,59 +78,57 @@ If your main file is named differently (e.g. te_editor.py), update accordingly.
 ### ⌨ Usage & Controls
 
 TE is designed to be intuitive, especially for users familiar with graphical text editors.
-General Controls
-Key	Action
-F1	Open the file browser to open a file.
-F2	Save the current file.
-F3	Create a new, empty file.
-F4	Cycle to the next color theme.
-F5	Toggle line numbers on or off.
-F9	Toggle focus between Edit Mode & Menu Mode.
-Esc (x 3)	Quit the editor immediately.
-Edit Mode
+| Key      | Action                           |
+| -------- | -------------------------------- |
+| `F1`     | Open file browser                |
+| `F2`     | Save current file                |
+| `F3`     | New file                         |
+| `F4`     | Cycle color theme                |
+| `F5`     | Toggle line numbers              |
+| `F9`     | Switch between Edit & Menu Modes |
+| `Esc` ×3 | Exit the editor immediately      |
 
-This is the default mode for typing and editing text.
+<br>
+🖊️ Edit Mode (Default)
+- Arrow keys: Move the cursor
 
-    Arrow Keys: Move the cursor.
+- Page Up / Down: Scroll by screen
 
-    Page Up / Page Down: Scroll through the document by a full screen.
+- Typing: Insert characters
 
-    Typing: Inserts characters at the cursor position.
+- Enter: New line
 
-    Enter: Inserts a new line.
+- Backspace / Delete: Remove characters
 
-    Backspace: Deletes the character to the left of the cursor.
+- Shift + Arrows: Select text
+<br>
 
-    Delete: Deletes the character at the cursor's position.
+### 🧭 Menu Mode
 
-    Shift + Arrow Keys: Select text character by character or line by line.
+Activated via F9 or clicking the menu bar.
 
-<br><br>
-### Menu Mode
+- Left/Right Arrows: Switch top-level menus
 
-Activate by pressing F9 or clicking on the menu bar.
+- Up/Down Arrows: Navigate submenu
 
-    Left / Right Arrow Keys: Switch between top-level menus (File, Edit, etc.).
+- Enter: Select menu item
 
-    Up / Down Arrow Keys: Navigate items within an open submenu.
+- Esc: Exit submenu or Menu Mode
+<br>
 
-    Enter: Select the highlighted menu or submenu item.
+### 🖱️Mouse Controls
 
-    Esc: Close the current submenu or exit menu mode entirely.
+- Click in text area: Move cursor
 
-Mouse Controls
+- Click and drag: Select text
 
-    Click in Text Area: Moves the cursor to the clicked location. If in Menu Mode, this will switch you back to Edit Mode.
+- Scroll wheel: Scroll document
 
-    Click and Drag: Selects a region of text.
+- Click menu bar: Activate Menu Mode
 
-    Scroll Wheel: Scrolls the document up or down.
+- Click submenu item: Execute action
+<br>
 
-    Click on Menu Bar: Activates Menu Mode and opens the corresponding submenu.
-
-    Click on Submenu Item: Executes the menu action (e.g., opens the "Save As" prompt).
-
-<br><br>
 ### 📜 License
 
 This project is provided for demonstration purposes only. Do not copy, modify, or distribute without express written permission.
