@@ -1,0 +1,19 @@
+COPYRIGHT NOTICE
+
+Copyright © 2024-2025 alby13. All Rights Reserved.
+
+This program, TE (Text Editor), is copyrighted material and may not be used, copied,
+distributed, or modified for any purpose without the express written permission of
+alby13.
+
+This program is provided as a demonstration of programming capabilities only.
+
+---
+
+Disclaimer regarding Third-Party Libraries:
+
+This program utilizes the Python `curses` library, which is part of the Python
+Standard Library and is distributed under the Python Software Foundation License (PSF License).
+A copy of the PSF License can be found in the file `LICENSE_PSF.txt` accompanying this program.
+The terms of the PSF License apply only to the Python `curses` library and other
+Python components, not to this program's original code.
