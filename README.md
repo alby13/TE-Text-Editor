@@ -8,18 +8,22 @@ How does this exist? A programmer named Ken Arnold made a software library in 19
 <br><br>
 
 
-░▒▓████████▓▒░▒▓████████▓▒░      
+░▒▓████████▓▒░▒▓███████▓▒░      
 ____░▒▓█▓▒░______░▒▓█▓▒░             
 ____░▒▓█▓▒░______░▒▓█▓▒░             
-____░▒▓█▓▒░______░▒▓██████▓▒░        
+____░▒▓█▓▒░______░▒▓█████▓▒░        
 ____░▒▓█▓▒░______░▒▓█▓▒░             
 ____░▒▓█▓▒░______░▒▓█▓▒░             
-____░▒▓█▓▒░______░▒▓████████▓▒░      
+____░▒▓█▓▒░______░▒▓███████▓▒░      
                                  
                                  
-- Current Version: Build #7, Released 6-22-2025
+<br>
 
-- Previous: Build #6, Released on 7-10-2024
+#### Current Version: Build #8, Released 6-23-2025
+
+Previous Releases:
+- Build #6, Released on 7-10-2024
+- Build #7, Released on 6-22-2025
 <br>
 
 ### 🚀 About The Project
@@ -27,6 +31,11 @@ ____░▒▓█▓▒░______░▒▓████████▓▒░
 TE is a cross-platform terminal text editor that provides a simple, mouse-driven, and intuitive editing experience without leaving the command line. It leverages the powerful pygments library for syntax highlighting across dozens of languages and the standard curses library for its terminal user interface (TUI).
 
 This project was created as a demonstration of programming capabilities, showing how to handle complex state management, user input (both keyboard and mouse), and third-party library integration in a significant console application.
+
+## What's New? Verison 8
+- Copy and Paste feature, along with Cut.
+- Undo/Redo
+<br>
 
 ### ✨ Features
 
