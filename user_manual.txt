@@ -1,0 +1,62 @@
+=======================
+ TE (Text Editor) v8.0
+   User Manual
+=======================
+
+Welcome to TE, a lightweight and powerful text editor for your terminal.
+
+---
+KEYBOARD CONTROLS
+---
+
+Moving/Editing:
+  - Arrows:  Move Cursor
+  - PgUp/PgDn: Scroll Page
+  - Enter:   New Line
+  - Backspace: Delete character to the left
+  - Delete:  Delete character at cursor
+
+Function Keys:
+  - F1:      Open File Browser
+  - F2:      Save
+  - F3:      New File
+  - F4:      Change Theme
+  - F5:      Toggle Line Numbers
+  - F9:      Toggle between Edit Mode and Menu Mode
+
+Shortcuts (Ctrl + Key):
+  - Ctrl+C:  Copy selected text to system clipboard
+  - Ctrl+X:  Cut selected text to system clipboard
+  - Ctrl+V:  Paste text from system clipboard
+  - Ctrl+Z:  Undo last action
+  - Ctrl+Y:  Redo last undone action
+
+Exiting (Quitting):
+  - Esc (x3): Press Escape three times in a row to quit.
+
+
+---
+MOUSE CONTROLS
+---
+
+  - Left Click:
+    - In text area: Move cursor.
+    - On menu bar: Open a menu.
+    - In File Browser: Select an item.
+
+  - Left Click + Drag:
+    - Select text.
+
+  - Right Click:
+    - Open the context menu (Copy, Cut, Paste, etc.).
+  
+  - Scroll Wheel:
+    - Scroll the document up or down.
+
+  - Double Click:
+    - In File Browser: Open a file or directory.
+
+
+---
+Github Project: https://github.com/alby13/TE-Text-Editor
+---
