@@ -12,8 +12,8 @@ This program is provided as a demonstration of programming capabilities only.
 
 Disclaimer regarding Third-Party Libraries:
 
-This program utilizes the Python `curses` library, which is part of the Python
-Standard Library and is distributed under the Python Software Foundation License (PSF License).
-A copy of the PSF License can be found in the file `LICENSE_PSF.txt` accompanying this program.
-The terms of the PSF License apply only to the Python `curses` library and other
-Python components, not to this program's original code.
+This program utilizes the Python `curses` library (covered by the Python Software Foundation License - PSF License)
+and the `pyperclip` library (covered by the 3-Clause BSD License).
+Copies of their respective licenses can be found in the files `LICENSE_PSF.txt` and `LICENSE_PYPERCLIP.txt`
+accompanying this program. The terms of these licenses apply only to those specific libraries
+and other components they cover, not to this program's original code.
