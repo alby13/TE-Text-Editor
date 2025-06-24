@@ -129,13 +129,15 @@ Activated via F9 or clicking the menu bar.
 
 - Click in text area: Move cursor
 
+- Right Click: Access Submenu
+
 - Click and drag: Select text
 
 - Scroll wheel: Scroll document
 
 - Click menu bar: Activate Menu Mode
 
-- Click submenu item: Execute action
+- Click submenu item: Execute action<br>(Undo, Redo, Copy, Paste, Cut)
 <br>
 
 ### 📜 License
