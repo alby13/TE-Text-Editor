@@ -152,14 +152,14 @@ alby13.
 
 Disclaimer regarding Third-Party Libraries:
 
-This program utilizes the Python curses library, which is part of the Python
-Standard Library and is distributed under the Python Software Foundation License (PSF License).
-A copy of the PSF License can be found in the file LICENSE_PSF.txt accompanying this program.
-(Note: You should create a file named LICENSE_PSF.txt and include the appropriate license text.)
-The terms of the PSF License apply only to the Python curses library and other
-Python components, not to this program's original code.
+This program utilizes the Python `curses` library (covered by the Python Software Foundation License - PSF License)
+and the `pyperclip` library (covered by the 3-Clause BSD License).
+Copies of their respective licenses can be found in the files `LICENSE_PSF.txt` and `LICENSE_BSD.txt`
+accompanying this program. The terms of these licenses apply only to those specific libraries
+and other components they cover, not to this program's original code.
 
 ### 🙏 Acknowledgments
 
-- The incredible Pygments library is used for syntax highlighting.
-- This project would not be possible without the curses library for providing the foundation of the terminal interface.
+- The curses library for providing the foundation of the terminal interface.
+- The Pygments library is used for syntax highlighting.
+- The pyperclip for copy and paste functionality.
