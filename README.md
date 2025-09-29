@@ -19,11 +19,12 @@ ____░▒▓█▓▒░______░▒▓██████▓▒░
                                  
 <br>
 
-#### Current Version: Build #8, Released 6-23-2025
+#### Current Version: Build #9, Released 9-29-2025
 
 Previous Releases:
 - Build #6, Released on 7-10-2024
 - Build #7, Released on 6-22-2025
+- Build #8, Released on 6-23-2025
 <br>
 
 ### 🚀 About The Project
@@ -32,9 +33,10 @@ TE is a cross-platform terminal text editor that provides a simple, mouse-driven
 
 This project was created as a demonstration of programming capabilities, showing how to handle complex state management, user input (both keyboard and mouse), and third-party library integration in a significant console application.
 
-## What's New? Verison 8
-- Copy and Paste feature, along with Cut.
-- Undo/Redo
+## What's New? Verison 9
+- Tab button supported
+- Canceling Save during text entry
+- Bug fixes for line movement, horizontal scrolling functionality
 <br>
 
 ### ✨ Features
@@ -50,9 +52,6 @@ This project was created as a demonstration of programming capabilities, showing
 | **Toggleable Line Numbers** | Show or hide line numbers with a keypress. |
 | **Status Bar**           | Shows file name, cursor position, theme, and mode. |
 | **Fun Extras**           | Imaginary printer and coffee break simulator! ☕ |
-
-#### WIP
-Working on you being able to get it by one command. I haven't done anything to make this happen... yet.
 
 <br><br>
 ### ⚙️ Getting Started
