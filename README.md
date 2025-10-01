@@ -61,6 +61,7 @@ Prerequisites
 
 - Python **3.8+**
 - Pygments:
+
   ```bash
   pip install pygments
   
@@ -70,6 +71,7 @@ Download with the PIP command:
 
   ```bash
 Open your Command Prompt or Linux Terminal Window and type in:
+
 pip install tedit
 
 ```
@@ -143,9 +145,11 @@ Activated via F9 or clicking the menu bar.
 - Click submenu item: Execute action<br>(Undo, Redo, Copy, Paste, Cut)
 <br>
 
-### 📜 License
+### 📜 License (Updated 9-29-2025)
 
-This project is provided for demonstration purposes only. Do not copy, modify, or distribute without express written permission.
+You may download and use TE by using the pip command, provided for download through the PyPi network. This is the only way to use my program correctly. You MAY NOT download the code from this github and use, modify, copy, without express written permission.
+
+This project code on Github is provided for demonstration purposes only. Do not copy, modify, or distribute without express written permission.
 
 <b>COPYRIGHT NOTICE</b>
 
