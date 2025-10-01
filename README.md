@@ -56,29 +56,33 @@ This project was created as a demonstration of programming capabilities, showing
 <br><br>
 ### ⚙️ Getting Started
 
-To get a local copy up and running, follow these simple steps.
+To download and run, follow these simple steps.
 Prerequisites
 
-- Python **3.6+**
+- Python **3.8+**
 - Pygments:
   ```bash
   pip install pygments
   
 <br><br>
 ### 🖥️ Running the Editor
-Clone the repo:
+Download with the PIP command:
 
   ```bash
-git clone https://github.com/alby13/TE-Text-Editor.git
-cd TE-Text-Editor
+Open your Command Prompt or Linux Terminal Window and type in:
+pip install tedit
 
 ```
 
 Run the editor:
+Once you install via pip, you should be able to launch the editor with either of these:
 
   ```bash
-python te.py
-If your main file is named differently (e.g. te_editor.py), update accordingly.
+TE
+
+or:
+
+TEdit
 
 ```
 
