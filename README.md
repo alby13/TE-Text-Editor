@@ -51,7 +51,6 @@ This project was created as a demonstration of programming capabilities, showing
 | **Robust Handling**      | Graceful handling of legacy encodings and files. |
 | **Toggleable Line Numbers** | Show or hide line numbers with a keypress. |
 | **Status Bar**           | Shows file name, cursor position, theme, and mode. |
-| **Fun Extras**           | Imaginary printer and coffee break simulator! ☕ |
 
 <br><br>
 ### ⚙️ Getting Started
