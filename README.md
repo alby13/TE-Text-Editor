@@ -1,4 +1,4 @@
-# TE (Text Editor)
+# TE (Text Editor), Known as TEdit on PyPi
 [![Python version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
 [![License: Custom](https://img.shields.io/badge/license-Custom-lightgrey.svg)](#license)
 
