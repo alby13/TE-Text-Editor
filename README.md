@@ -80,12 +80,14 @@ Prerequisites
 
 Recommendations for Linux
 
+Linux needs xclip or xsel for copy and paste functionality
+
 Install dependencies:
  ```bash
 sudo apt install python3-pip xclip
 pip3 install pygments pyperclip
 ```
-
+<br><br>
 
 ### 🖥️ Running the Editor
 Download with the PIP command:
