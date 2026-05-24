@@ -75,8 +75,18 @@ Prerequisites
 
   ```bash
   pip install pygments
-  
+  ```
 <br><br>
+
+Recommendations for Linux
+
+Install dependencies:
+ ```bash
+sudo apt install python3-pip xclip
+pip3 install pygments pyperclip
+```
+
+
 ### 🖥️ Running the Editor
 Download with the PIP command:
 
