@@ -19,18 +19,26 @@ ____░▒▓█▓▒░______░▒▓█████▓▒░
                                  
 <br>
 
-#### Current Version: Version 2.7 — Released 2026-05-24
+#### Current Version: Version 2.8 — Released 2026-05-25
 
 Previous Releases:
 - Version 1.6, Released on 7-10-2024
 - Version 1.7, Released on 6-22-2025
 - Version 1.8, Released on 6-23-2025
 - Version 1.9 (PyPi as v0.9.1) — 2025-09-29
+- Version 2.7 — 2025-05-24
 <br>
 
 ### 🚀 About The Project
 
 TE was created as a demonstration of programming capabilities, showing how to handle complex state management, user input (both keyboard and mouse), and third-party library integration in a significant console application.
+
+## What's New? From Verison 2.8
+- When text goes off the screen to the left or right, a arrow indicator shows at the left or ride side of the screen.
+- You can now press left at the start of a line to go up a line to the end of that line, and you can press right at the end of a line to go down to the beginning of the next line on the left for easy expected arrow key navigation.
+- Page Up and Page Down Keys now work for the open file menu.
+- File Saving has been fixed and enhanced to give you a proper directory navigation for file saving.
+- Color Themes for both Code and Background/Foreground Text are fixed.
 
 ## What's New? From Verison 2.7
 - Bug Fixes and Refinements
