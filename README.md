@@ -58,6 +58,12 @@ TE was created as a demonstration of programming capabilities, showing how to ha
 - Bug fixes for line movement, horizontal scrolling functionality
 <br>
 
+### 🚨 Known Issues
+
+- Right Click Menu Undo/Redo is currently not working. 
+
+<br>
+
 ### ✨ Features
 
 | Feature                  | Description |
