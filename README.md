@@ -1,8 +1,8 @@
-# TE / TEdit (Text Editor), Known as TEdit on PyPi
+# TE / TEdit (Text Editor)
 [![Python version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
 [![License: Custom](https://img.shields.io/badge/license-Custom-lightgrey.svg)](#license)
 
-TE is a Windows-optimized terminal text editor that provides a simple, mouse-driven, and intuitive editing experience without leaving the command line. It features full color theme changing and leverages the powerful pygments library for syntax highlighting across dozens of coding languages; it utilizes the curses library for its terminal user interface (TUI).
+TE is a Windows-optimized, but still cross-compatible terminal text editor that provides a simple, mouse-driven, and intuitive editing experience without leaving the command line. It features full color theme changing and leverages the powerful pygments library for syntax highlighting across dozens of coding languages; it utilizes the curses library for its terminal user interface (TUI).
 
 How does this exist? A programmer named Ken Arnold made a software library in 1978 called Curses.
 <br><br>
@@ -36,7 +36,7 @@ TE was created as a demonstration of programming capabilities, showing how to ha
 ## What's New? From Verison 2.8
 - When text goes off the screen to the left or right, a arrow indicator shows at the left or ride side of the screen.
 - You can now press left at the start of a line to go up a line to the end of that line, and you can press right at the end of a line to go down to the beginning of the next line on the left for easy expected arrow key navigation.
-- Page Up and Page Down Keys now work for the open file menu.
+- Page Up and Page Down Keys and the mouse scroll wheel now work for the open file menu.
 - The Mouse can now be used to move the scroll bar in the open file menu.
 - File Saving has been fixed and enhanced to give you a proper directory navigation for file saving.
 - Color Themes for both Code and Background/Foreground Text are fixed.
