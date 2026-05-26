@@ -37,6 +37,7 @@ TE was created as a demonstration of programming capabilities, showing how to ha
 - When text goes off the screen to the left or right, a arrow indicator shows at the left or ride side of the screen.
 - You can now press left at the start of a line to go up a line to the end of that line, and you can press right at the end of a line to go down to the beginning of the next line on the left for easy expected arrow key navigation.
 - Page Up and Page Down Keys now work for the open file menu.
+- The Mouse can now be used to move the scroll bar in the open file menu.
 - File Saving has been fixed and enhanced to give you a proper directory navigation for file saving.
 - Color Themes for both Code and Background/Foreground Text are fixed.
 
@@ -68,6 +69,7 @@ TE was created as a demonstration of programming capabilities, showing how to ha
 | **Code Themes**          | Cycle through Pygments color schemes instantly |
 | **File Operations**      | New, Open, Save, Save As — all built-in. |
 | **Robust Handling**      | Graceful handling of legacy encodings and files. |
+| **Word Wrap**            | Long lines of text can wrap to the next line. |
 | **Toggle Line Numbers**  | Show or hide line numbers with a keypress. |
 | ** Text	Search**         | Search forward from your cursor for text
 | **Status Bar**           | Shows file name, cursor position, theme, and mode. |
